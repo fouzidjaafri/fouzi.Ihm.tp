@@ -1,0 +1,16 @@
+
+
+.imagee{
+  max-height: 100%;
+  max-width: 100%;
+  margin-top: 20%;
+ 
+  margin-right: 10%;
+  border-radius: 50px;
+}
+.ml-4{
+	margin-left: ($spacer * 1.5) !important;
+  }
+.ml-4{
+	  margin-left;: ($spacer * 1.5) !important;
+   }
